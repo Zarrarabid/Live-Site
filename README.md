@@ -23,3 +23,9 @@ Technologies Used:
 Bootstrap: Responsive web design framework.
 Material-UI (mui): React components for a modern and stylish interface.
 Aos: Animate On Scroll library for smooth and captivating animations.
+
+
+TO INSTALL PACKAGES 
+- use npm i
+  OR
+- npm i -f
