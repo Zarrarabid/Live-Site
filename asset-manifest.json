@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Live-Site/static/css/main.3e174ed3.css",
-    "main.js": "/Live-Site/static/js/main.54aec26b.js",
+    "main.js": "/Live-Site/static/js/main.16ba5cf5.js",
     "static/media/phone.png": "/Live-Site/static/media/phone.2e89766a7fdf7d98d1a6.png",
     "static/media/shop cargo.png": "/Live-Site/static/media/shop cargo.7bdd8974207f5a340ea9.png",
     "static/media/flat-woman-holding-shopping-bags-cartoon-wallpaper-modern-design-for-shopping-online-website-design-png.webp": "/Live-Site/static/media/flat-woman-holding-shopping-bags-cartoon-wallpaper-modern-design-for-shopping-online-website-design-png.a21c7b1633f3b7019067.webp",
@@ -20,10 +20,10 @@
     "static/media/bag 4.avif": "/Live-Site/static/media/bag 4.4eafdfdef2fd3cdf4e73.avif",
     "index.html": "/Live-Site/index.html",
     "main.3e174ed3.css.map": "/Live-Site/static/css/main.3e174ed3.css.map",
-    "main.54aec26b.js.map": "/Live-Site/static/js/main.54aec26b.js.map"
+    "main.16ba5cf5.js.map": "/Live-Site/static/js/main.16ba5cf5.js.map"
   },
   "entrypoints": [
     "static/css/main.3e174ed3.css",
-    "static/js/main.54aec26b.js"
+    "static/js/main.16ba5cf5.js"
   ]
 }
